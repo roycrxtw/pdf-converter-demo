@@ -1,0 +1,19 @@
+{
+  "name": "pdf-converter",
+  "version": "1.0.0",
+  "description": "PDF converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PDF",
+    "html",
+    "converter"
+  ],
+  "author": "Roy Lu",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^2.1.0"
+  }
+}
